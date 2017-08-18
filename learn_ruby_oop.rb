@@ -51,3 +51,6 @@ person_2 = Person.new('Brown', 'Brown', 'male', 11.5, 'Dave Jungst', 36, 6.1)
 
 puts person_1.info
 puts person_2.info
+
+# DRY - don't repeat yourself
+# Use modules or classes instead. 
